@@ -9,7 +9,7 @@
 # 非member如何push
 
 ```bash
-
+git
 ```
 # 成为我们的member
 
